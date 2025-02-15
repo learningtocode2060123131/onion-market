@@ -78,4 +78,9 @@ li>a:hover{
   justify-content: space-between;
   margin-top:40px;
 }
-
+@media (max-width: 600px) {
+  body {
+    font-size: 14px;
+    padding: 10px;
+  }
+}
